@@ -4,6 +4,7 @@ Rencana Bagas
 * membuat ES6
 * framwork javascript
  - vue
+ - react
 * struktur data dasar
 - PHP
 - python
