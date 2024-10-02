@@ -3,4 +3,5 @@ Rencana Bagas
 - javascript
 * membuat ES6
 * framwork javascript
+* struktur data dasar
 - PHP
