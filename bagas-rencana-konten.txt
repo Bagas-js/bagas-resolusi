@@ -3,5 +3,7 @@ Rencana Bagas
 - javascript
 * membuat ES6
 * framwork javascript
-* struktur data dasar
+ - vite
+ - express
 - PHP
+ - laravel
