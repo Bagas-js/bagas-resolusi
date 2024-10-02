@@ -8,3 +8,4 @@ Rencana Bagas
 * struktur data dasar
 - PHP
 - python
+
